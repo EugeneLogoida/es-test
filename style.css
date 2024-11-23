@@ -58,7 +58,7 @@ ul li:hover{
     padding: 20px;
     backdrop-filter: blur(5px);
     border-radius: 8px;
-    margin-bottom: 75px;
+    margin-bottom: 50px;
 }
 .header__right{
     width: 45%;
@@ -82,6 +82,7 @@ ul li:hover{
 }
 .price{
     color: #444444;
+    margin-top: 50px;
 }
 .summer{
     padding: 20px;
